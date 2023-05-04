@@ -24,7 +24,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
--
+-https://zeidosec.github.io/Frontend2-github.io/
 
 ## My process
 
